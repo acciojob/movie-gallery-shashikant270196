@@ -2,3 +2,16 @@
 	display:grid;
 	grid-template-columns: repeat(12, 1fr);
 }
+.row2{
+	display:grid;
+	grid-template-columns: repeat(6, 2fr);
+}
+.row3{
+	display:grid;
+	grid-template-columns: repeat(3, 4fr);
+}
+
+.row4{
+	display:grid;
+	grid-template-columns: repeat(1, 15fr);
+}
